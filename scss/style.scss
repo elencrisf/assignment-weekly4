@@ -1,0 +1,77 @@
+
+h2 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+
+.table.table-striped.table-dark {
+    width: 600px;
+    height: 120px;
+    margin: 20px auto;
+    background-color: rgb(1, 78, 109);
+}
+
+
+
+div#pre-date, input#date {
+    margin-top: 30px;
+}
+
+.input-group {
+    width: 200px;
+}
+
+
+.aside {
+    width: 100%;
+    padding-top: 200px;
+    text-align: center;
+    // border:2px solid black;
+    border-radius: 10px;
+
+}
+
+
+.header {
+    width: 100%;
+    height: 100px;
+    color: whitesmoke;
+    background-color: rgb(1, 78, 109);
+    // border:2px solid black;
+    // border-radius: 10px;
+    text-align: center;
+}
+.section {
+    margin: 20px auto;
+    padding-top: 100px;
+    width: 100%;
+    height: 500px;
+    background-color: lightseagreen;
+    // border:2px solid black;
+    box-shadow: linen;
+    border-radius: 10px;
+    text-align: center;
+}
+
+// .box {
+//     margin-top: 100px;
+// }
+
+.footer {
+    width: 100%;
+    padding-top: 25px;
+    height: 80px;
+    background-color: rgb(1, 78, 109);
+    // border:2px solid black;
+    // border-radius: 10px;
+    text-align: center;
+    color: whitesmoke;
+}
+
+.noPadding{
+      padding: 0!important;
+}
+
+
+
